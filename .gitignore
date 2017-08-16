@@ -28,3 +28,6 @@ run
 /.bin/
 /.build/
 /.eclipse/
+/build.gradle
+/gradlew
+/gradlew.bat
