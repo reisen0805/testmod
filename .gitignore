@@ -31,3 +31,5 @@ run
 /build.gradle
 /gradlew
 /gradlew.bat
+/buildlog.txt
+/release.bat

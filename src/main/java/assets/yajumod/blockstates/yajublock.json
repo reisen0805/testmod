@@ -1,0 +1,5 @@
+{
+    "variants": {
+        "type=yaju3":  { "model": "yajumod:yajublock" }
+    }
+}
